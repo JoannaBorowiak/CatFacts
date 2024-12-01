@@ -91,7 +91,7 @@ public async Task SaveCatFactsToFile_ValidInput_SavesFactsToFile()
 
 1. Clone the repository:
    ```csharp
-   git clone https://github.com/your-username/CatFacts.git
+   git clone https://github.com/JoannaBorowiak/CatFacts.git
    ```
 2. Navigate to the project directory:
    ```csharp
