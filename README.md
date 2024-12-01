@@ -95,7 +95,7 @@ public async Task SaveCatFactsToFile_ValidInput_SavesFactsToFile()
    ```
 2. Navigate to the project directory:
    ```csharp
-   cd CatFacts
+   cd CatFacts/CatFacts
    ```
 3. Build the application:
    ```csharp
