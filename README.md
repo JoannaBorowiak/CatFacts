@@ -91,11 +91,11 @@ public async Task SaveCatFactsToFile_ValidInput_SavesFactsToFile()
 
 1. Clone the repository:
    ```csharp
-   git clone https://github.com/your-username/CatFactsApp.git
+   git clone https://github.com/your-username/CatFacts.git
    ```
 2. Navigate to the project directory:
    ```csharp
-   cd CatFactsApp
+   cd CatFacts
    ```
 3. Build the application:
    ```csharp

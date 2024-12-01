@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Zapisywanie\CatFacts.csproj" />
+    <ProjectReference Include="..\CatFacts\CatFacts.csproj" />
   </ItemGroup>
 
 </Project>

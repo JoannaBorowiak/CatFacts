@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatFacts", "Zapisywanie\CatFacts.csproj", "{71BA6D0F-A186-4D2D-969F-8F0A2FA7D62E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatFacts", "CatFacts\CatFacts.csproj", "{71BA6D0F-A186-4D2D-969F-8F0A2FA7D62E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFactsUnitTest", "CatFactsUnitTest\CatFactsUnitTest.csproj", "{3B3D9DA9-5E8C-4C2F-B86A-C133F4D28B66}"
 EndProject
